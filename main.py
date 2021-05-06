@@ -3,7 +3,7 @@ import requests
 locations = ("Лондон", "SVO", "Череповец")
 
 params = {"lang": "ru",
-          "m": ""
+          "mTqu": ""
           }
 
 for location in locations:
